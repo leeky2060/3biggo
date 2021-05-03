@@ -290,34 +290,31 @@
     padding-left: 20px;
     padding-right: 20px;
   }
-}.u-section-2 {
+}.u-section-2 .u-image-1 {
+  min-height: 698px;
   background-image: url("images/-.-0013.png");
 }
 
-.u-section-2 .u-sheet-1 {
-  min-height: 698px;
-}
-
 @media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-2 .u-image-1 {
     min-height: 576px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-2 .u-image-1 {
     min-height: 441px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-2 .u-image-1 {
     min-height: 331px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-2 .u-image-1 {
     min-height: 241px;
   }
 }
